@@ -41,7 +41,7 @@ minima:
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-genus
 exclude:
   - Gemfile
   - Gemfile.lock
